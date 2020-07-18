@@ -28,7 +28,7 @@ o	Visualization
 o	Predicting Price
 o	Price accuracy checking
 
-*Resutlts
+* Resutlts
 
 Predicting Price of laptop and analyzing laptop price accuracy on depending laptop configuration. Realizing other relations among other configurations of laptop and how they effect  each other
 
